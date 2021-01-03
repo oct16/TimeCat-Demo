@@ -16,7 +16,7 @@
         "typescript": "~3.7.2",
         "@types/react-router-dom": "^5.1.5",
         "react-router-dom": "^5.2.0",
-        "timecatjs": "^1.2.0-alpha.13"
+        "timecatjs": "^1.2.0-alpha.17"
     },
     "scripts": {
         "start": "react-scripts start",
